@@ -1,0 +1,1 @@
+worker: ./attack.py start
